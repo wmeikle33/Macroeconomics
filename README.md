@@ -1,6 +1,6 @@
 # Macroeconomics
 
-bash```
+```bash
 
 README.md
 ├── LICENSE
